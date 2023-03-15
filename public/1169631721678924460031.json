@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815179077442",
+    "project_id": "easy-guides-master-mind",
+    "storage_bucket": "easy-guides-master-mind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815179077442:android:63a9f16a31ccdf9d6e5adb",
+        "android_client_info": {
+          "package_name": "com.EasyGuides.MasterMind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815179077442-q8ss4nodc4v9h066tau7114d1bi9kb94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJNUWa5cVOSuAdo53DMJJMZujqyChjGWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815179077442-q8ss4nodc4v9h066tau7114d1bi9kb94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
